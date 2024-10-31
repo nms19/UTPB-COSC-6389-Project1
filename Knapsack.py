@@ -3,6 +3,7 @@ import random
 import tkinter as tk
 from tkinter import *
 import threading
+import pandas 
 
 num_items = 100
 frac_target = 0.7
